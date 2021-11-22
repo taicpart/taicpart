@@ -1,0 +1,766 @@
+
+
+
+                Directions for Front Cover (white background)
+
+
+
+
+
+
+                   [TAIC PART 2007 Logos (tp-logo* files)]
+
+
+
+                        co-located with Mutation 2007
+
+
+                          10th-14th September 2007
+                                Sponsored by
+                       [Sponsor logos -sponsor* files]
+
+
+
+
+
+                  Cumberland Lodge, Windsor, United Kingdom
+
+                                [IEEE logos]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     These proceedings are dedicated to
+
+                             Dr. Martin Woodward
+                                 1948 - 2006
+
+    Lecturer at Liverpool University, UK, pioneer of Mutation Testing and
+      long-serving Editor in Chief of the Journal of Software Testing,
+                        Verification and Reliability
+
+
+Preface
+
+A Message from the TAIC PART 2007 and Mutation 2007 General Chair
+
+Welcome to TAIC PART 2007 and Mutation 2007.  I  would  like  to  take  this
+opportunity to explain first, a little about TAIC PART  and  its  motivation
+and organisation and then a  little  about  the  co-location  with  Mutation
+2007. Finally, I would like to pay  tribute  to  Martin  Woodward,  to  whom
+these proceedings are dedicated.
+
+TAIC  PART  is  a  unique  event  that  strives  to  combine  aspects  of  a
+conference,  a  workshop  and  a  retreat.  Through  this  unique  blend  of
+attributes the event seeks to bring together  industrialists  and  academics
+in an environment that promotes  meaningful  collaboration  on  problems  in
+software testing.
+
+Among  computer  science  and  software  engineering  activities,   software
+testing is a perfect candidate for such a union of academic  and  industrial
+minds, because the problems thrown up by  software  testing  touch  upon  so
+many academic research concerns,  while  the  implications  of  advances  in
+research can have such  wide  ranging  and  far  reaching  implications  for
+industry.
+
+Testing  research  combines  elements  of  computability   and   algorithmic
+complexity theory with the mathematics  and  pragmatics  of  representations
+such as finite state machines,  flow  graphs,  call  graphs  and  dependence
+graphs.  It  involves  disciplines  that  cover  the  spectrum  of  software
+engineering  activity,  from  psychology,  through   engineering   to   pure
+mathematics and even philosophy. This astonishing  breadth  and  depth  have
+made the problems of software testing appealing  to  academics  for  several
+decades.
+
+However, as the industrialists know, testing software is  unlike  any  other
+kind of engineering testing activity. It will not suffice  to  test  at  two
+ends of a spectrum of values,  in  order  to  infer  properties  in-between.
+Software systems exhibit discrete behaviour and may combine this  with  non-
+determinism and emergent behaviour. No other engineering  artefact  is  more
+closely integrated with the human mind, leading to  complex  hybrid  systems
+that involve software, human judgement and, sometimes, political, legal  and
+social  processes.  As  technology  matures,  the  planet  is   increasingly
+becoming enveloped in a "software skin"  of  interconnected,  interdependent
+processes, under which software controls and regulates both the  blood  flow
+of information and the mechanisms of action.
+
+If the problems associated with software testing are harder than  those  for
+traditional engineering, the implications are no less (if not  significantly
+more)  important.  Software  now  controls  safety  critical  systems   from
+chemical plants and national nuclear defence systems, through  sophisticated
+fly-by-wire commercial aircraft, to the airbag and brake controllers in  our
+automobiles. The consequences of software failure are hard to overstate.
+
+It is with these pressing concerns in mind that TAIC  PART  seeks  to  bring
+academics and industrialists together in a  retreat  setting,  allowing  for
+interaction, extended discussion and joint work that is not possible in  the
+rushed schedule of a conference format. As organisers, we  have  all  worked
+very hard to ensure that there is the right mix of academic  and  industrial
+involvement in this rather special event. I am delighted that we  have  been
+able to secure industrial sponsorship for the event, ensuring the  full  and
+committed  participation  of  the  industrial   community.   The   programme
+committee have also worked hard under the guidance of the  programme  chair,
+Phil McMinn, to ensure that the event lives up to the standards of  academic
+rigor, ensuring that the event fully engages with the academic community.
+
+I would like to pay special thanks to Phil for all the work he has  done  to
+bring this imaginative and  exciting  programme  together.  He  also  worked
+behind the scenes  on  many  aspects  of  the  event,  including  publicity,
+proceedings, excellent web presence and many  other  organisational  aspects
+of both TAIC PART and Mutation 2007. I would also  like  to  extend  a  warm
+thanks to the programme committee, who worked  hard  to  review  the  papers
+submitted.
+
+The industrial sponsors have really helped us  to  build  strong  and  close
+links to industry. I would like to thank all  of  our  TAIC  PART  sponsors:
+Vizuri, ElectroMind, Ericsson, Gerrard Consulting, LDRA and Nokia.
+
+As well as industrial sponsorship, TAIC PART  also  received  the  kind  and
+valuable support of the Engineering and Physical Sciences  Research  Council
+(the EPSRC). The EPSRC is the UK government funding body  for  the  sciences
+and engineering. Through the EPSRC support and the  industrial  sponsorship,
+we are able to subsidise the fee for participation, so that  cost  will  not
+be a barrier to involvement. I  hope  that  our  distinguished  guests  from
+outside the UK will allow the UK participants a small measure  of  pride  in
+the UK's research and practice track record  in  software  testing  and  the
+recognition that such funding represents.
+
+I am very grateful to the international community  for  their  participation
+and I would like to extend a very warm welcome to all our visitors  to  TAIC
+PART and Mutation 2007, both from within and outside the United  Kingdom.  I
+hope that you find the technical content  stimulating  and  the  environment
+perfect for establishing and deepening research collaborations.
+
+TAIC PART has two outstanding keynote speakers, both of  whom  have  made  a
+strong contribution to academic software testing, while, at the  same  time,
+stimulating industrial take up; demonstrating by example that there is  much
+practical value  in  academic  testing  research  work.  The  Daikon  system
+created by Mike Ernst led to the  development  of  the  Agitator  commercial
+system from Agitar, while Zeller's Delta Debugging has received  significant
+industrial interest and take-up. Both approaches have proved  to  be  widely
+applicable   practically   and   extremely   interesting   and   influential
+theoretically. As such, they are ideal candidates for keynote  presentations
+at TAIC PART and I am very grateful to Mike  and  Andreas  for  agreeing  to
+present their work.
+
+This year, the TAIC PART event  is  co-located  with  Mutation  2007,  which
+follows close on the heels of Mutation 2006. Mutation  2006  was  co-located
+with ISSRE in North Carolina, USA. It followed slightly less closely on  the
+heels of Mutation 2000, held in co-location  with  ICSM  and  ISSRE  in  San
+Jose, USA.
+
+Mutation testing has been shown both theoretically and  empirically,  to  be
+an exceptionally powerful and generic  technique  for  software  testing.  I
+firmly believe that it has yet to achieve its full industrial potential.  It
+therefore seems ideal that the Mutation Testing workshop is co-located  with
+TAIC PART, with its focus  on  industrial  involvement  and  relevance.  The
+other workshop  organisers  and  I  were  fortunate  in  attracting  Richard
+DeMillo as the keynote speaker. I am very grateful to him for coming to  the
+workshop to kick  off  the  event.  The  workshop  also  benefits  from  the
+generous sponsorship of Certess, a mutation test tool provider, for which  I
+am also very grateful.
+
+The programme chairs for Mutation 2007 are John Clark and Jeff Offutt,  both
+of whom have made outstanding contributions to the development  of  software
+testing in general and to mutation testing  in  particular.  They  have  put
+together an extremely exciting programme with the help  of  a  distinguished
+international programme committee. I am very grateful to the  Mutation  2007
+organisers and committees for their work in bringing the community  together
+so soon after the last mutation testing workshop in 2006. I  sincerely  hope
+that this improved regularity will generate  sufficient  momentum  that  the
+Mutation workshop will now become an annual event.
+
+A complex combined  event  like  TAIC  PART  and  Mutation  2007  cannot  be
+organised without the help of a committed team of organisers. The  staff  at
+the Cumberland Lodge have been marvellous  in  their  dedicated  assistance.
+The event would not be nearly so appealing without their  support,  kindness
+and professionalism. I would like to extend a very warm thanks to Megan  and
+all the staff at the Cumberland Lodge for their hospitality.  The  staff  at
+the IEEE have also been very helpful in using  their  resources  to  produce
+the proceedings. I would like to thank Tom Fink and Tom Baldwin and all  the
+staff at the IEEE for this. I am also  very  grateful  to  David  Card,  the
+Editor in Chief of the Journal of Systems and Software  for  agreeing  to  a
+special issue of extended selected papers from Mutation 2007 and TAIC  PART.
+
+
+The local arrangements and  planning  of  the  event  could  not  have  been
+achieved without the help of Christine McCulloch, Zheng  Li,  David  Willmor
+and Neil Walkinshaw. Thank  you  all  very  much  for  your  hard  work  and
+support.
+
+You will have noticed that the proceedings of TAIC  PART/Mutation  2007  are
+dedicated to Dr. Martin Woodard. Martin was born on the 28th  May  1948.  He
+died on the 27th October 2006, shortly after attending TAIC PART  2006.  All
+of us in the software testing community were extremely shocked and  saddened
+by his untimely death. The other organisers and I felt that it was  entirely
+fitting and appropriate  that  these  proceedings  should  be  dedicated  to
+Martin's memory.
+
+Martin  worked  for  many  years  on  software  testing  and   made   strong
+contributions to the development of mutation testing.  He  gave  outstanding
+service to our  community  through  his  long  standing  editorship  of  the
+Journal of Software Testing,  Verification  and  Reliability  (STVR).  Every
+author who has published  in  the  journal  will,  I  am  sure,  testify  to
+Martin's  dedication,  professionalism,  sensitivity,   thoughtfulness   and
+attention to detail. Also those who interacted with him  were  left  with  a
+lasting impression of his broad and deep subject knowledge.
+
+For Martin, STVR was a labour of love and an  important  professional  duty.
+Through editorship of STVR, he  made  an  outstanding  contribution  to  the
+development of software testing as an academic discipline at a crucial  time
+in its development. He will be greatly missed.
+
+[pic]
+
+Mark Harman
+
+
+
+
+A Message from the TAIC PART 2007 Programme Chair
+
+Firstly, I would like to thank everyone who submitted a paper to  TAIC  PART
+2007.   The event received 31 abstracts,  27  of  which  became  full  paper
+submissions.   After  a  rigorous  reviewing   process,   including   online
+programme committee discussions, 15 papers were  accepted.   Four  of  these
+papers were from industry, seven from academia, with a  further  four  short
+papers accepted for the special PhD programme.
+
+ A special thank you is due to the programme committee for  the  outstanding
+quality of their reviews for each paper received.   We believe that for  the
+authors, this is the most sincere and valuable reward for  their  hard  work
+and expertise (whether or not their papers were accepted). TAIC  PART  seeks
+to encourage and facilitate high quality reviewing, since it  plays  such  a
+vital role in the development of this subject.
+
+Furthermore I would like to add Mark's thanks  to  our  keynote  speakers  -
+Michael Ernst, Associate Professor  in  the  MIT  Department  of  Electrical
+Engineering and Computer Science, and Andreas Zeller, Professor of  Computer
+Science at Saarland University.  Further thanks are  due  to  David  Willmor
+for chairing the PhD programme,  and  Neil  Walkinshaw  for  organising  and
+chairing the tools session.
+
+Finally, we are also extremely grateful to  our  sponsors,  whose  financial
+contributions made it possible for TAIC PART to happen.  TAIC PART  received
+significant funding from the UK Engineering and Physical  Sciences  Research
+Council (EPSRC), and further  support  from  our  six  industrial  partners:
+Electromind, Ericsson, Gerrard Consulting, LDRA  Software  Technology  Ltd.,
+Nokia and Vizuri Ltd.
+
+[pic]
+
+Phil McMinn
+
+
+
+
+A Message from the Mutation 2007 Programme Co-Chairs
+
+The mutation workshop received 17 abstracts and 13 papers. After a  rigorous
+process where each paper was reviewed by  three  members  of  the  programme
+committee, followed by an active virtual PC meeting, 11 were accepted.
+
+We are very pleased with the outstanding submissions  reflecting  a  vibrant
+research community.  The programme  committee  was  extremely  diligent  and
+provided the submitters with very helpful  suggestions.  Reviewing  is  hard
+work for low pay, and we hope we can speak for the authors in  thanking  the
+programme committee for their efforts.
+
+We are also honoured to have one of the founders of mutation as our  keynote
+speaker. Richard A. DeMillo, along  with  Richard  J.  Lipton  and  Fred  G.
+Sayward, started this field over 30 years ago. DeMillo led some of the  most
+successful research projects  in  software  testing,  including  the  Mothra
+mutation testing project. We thank Rich for attending and presenting at  the
+workshop.
+
+In closing, we would like to thank our sponsor, Certess, for sponsoring  the
+open-bar banquet at the workshop
+
+[pic].[pic]
+
+John Clark & Jeff Offutt
+
+TAIC PART 2007 Organisation
+
+General Chair:  Mark Harman (King's College London)
+
+Programme Chair: Phil McMinn (University of Sheffield)
+
+Local Arrangements Chair: Christine McCulloch with help from Zheng Li
+(King's College London)
+
+PhD Programme Chair: David Willmor (University of Manchester)
+
+Tools Session Chair: Neil Walkinshaw (University of Sheffield)
+
+
+
+TAIC PART 2007 Sponsorship
+
+    . The UK Engineering and Physical Sciences Research Council (EPSRC)
+
+    . Electromind
+
+    . Ericsson
+
+    . Gerrard Consulting
+
+    . LDRA Software Technology Ltd.
+
+    . Nokia
+
+    . Vizuri Ltd.
+
+
+TAIC PART 2007 Programme Committee
+
+Academic Members
+
+    . Giulio Antoniol, University of Sannio, Italy
+
+    . Kirill Bogdanov, University of Sheffield, UK
+
+    . David Binkley, Loyola College Maryland,USA
+
+    . Jonathan Bowen, London South Bank University, UK
+
+    . Myra Cohen, University of Nebraska-Lincoln, USA
+
+    . John Clark, University of York, UK
+
+    . Mireille Ducassé, IRISA / INSA de Rennes, France
+
+    . Matthew Dwyer, University of Nebraska-Lincoln, USA
+
+    . Mark Harman, Kings College London, UK
+
+    . Mary Jean Harrold, Georgia Institute of Technology, USA
+
+    . Rob Hierons, Brunel University, UK
+
+    . Mike Holcombe, University of Sheffield, UK
+
+    . Gregory Kapfhammer, Allegheny College, USA
+
+    . Bogdan Korel, Illinois Institute of Technology, USA
+
+    . Paul Krause, University of Surrey, UK
+
+    . Yvan Labiche, Carleton University, Canada
+
+    . Bev Littlewood, City University London, UK
+
+    . Wes Masri, American University of Beirut, Lebanon
+
+    . John May, University of Bristol, UK
+
+    . Phil McMinn, University of Sheffield, UK
+
+    . Robby, Kansas State University, USA
+
+    . Stuart Reid, Cranfield University, UK
+
+    . Filippo Ricca, ITC-irst, Trento, Italy
+
+    . Marc Roper, University of Strathclyde, UK
+
+    . Mary Lou Soffa, University of Virginia, USA
+
+    . Hasan Ural, University of Ottawa, Canada
+
+    . Neil Walkinshaw, University of Sheffield, UK
+
+    . Jianjun Zhao, Shanghai Jiao Tong University, China
+
+    . Hong Zhu, Oxford Brookes University, UK
+
+Industrial Members
+
+    . Steve Allott, Electromind, UK
+
+    . Paul Baker, Motorola, UK
+
+    . Sigrid Eldh, Ericsson, Sweden
+
+    . Isabel Evans, Testing Solutions Group Ltd., UK
+
+    . Paul Gerrard, Gerrard Consulting, UK
+
+    . Mike Hennell, LDRA Software Technology, UK
+
+    . Jani Metsä, Nokia, Finland
+
+    . Mathai Joseph, Tata Consultancy Services Ltd., India
+
+    . Wolfram Schulte, Microsoft, USA
+
+    . Brian Shea, Vizuri Ltd., UK
+
+    . Clive Stewart, IBM, UK
+
+    . Willem Visser, SEVEN Networks, USA
+
+    . Joachim Wegener, DaimlerChrysler, Germany
+
+
+TAIC PART 2007 Keynote Speakers
+
+Michael Ernst, MIT, USA
+
+Michael D. Ernst is Associate Professor in the  MIT  Electrical  Engineering
+and Computer  Science  department  and  in  the  MIT  Computer  Science  and
+Artificial Intelligence Lab. His primary technical  interest  is  programmer
+productivity,  encompassing  software  engineering,  testing,  verification,
+static and dynamic program analysis, compilation, and  programming  language
+design. However, he has also published in artificial  intelligence,  theory,
+and other areas of computer science. Ernst was previously  a  researcher  at
+Microsoft Research.
+
+
+
+
+
+
+Andreas Zeller, Saarland University, Germany
+
+Andreas Zeller is Professor of Computer Science at Saarland  University;  he
+researches large programs and their history, and has developed a  number  of
+methods to determine  the  causes  of  program  failures  -  on  open-source
+programs as well as in  industrial  contexts  at  IBM,  Microsoft,  SAP  and
+others. His book "Why Programs Fail" has received the  Software  Development
+Magazine productivity award in 2006.
+
+
+TAIC PART 2007 Programme
+
+Day One, Wednesday 12th September
+
+8:00  Breakfast (for TAIC PART guests who attended Mutation 2007)
+10:00       Arrival and Coffee
+10:30       Welcome to TAIC PART 2007 (Mark Harman and Phil McMinn)
+10.50       Short Break
+11:00       Keynote: Michael Ernst (MIT)
+12.30       Lunch
+2:00  Paper Session 1 - Automatic Test Case Generation
+
+      Xianghua Deng, Robby, John Hatcliff (Kansas State University)
+      Kiasan/KUnit: Automatic Test Case Generation and Analysis Feedback for
+      Open Object-oriented Systems
+
+      Daryl Shannon, Sukant Hajra, Alison Lee, Daiqian Zhan, Sarfraz
+      Khurshid
+      (University of Texas at Austin)
+      Abstracting Symbolic Execution with String Analysis
+
+      Stefan Wappler (Technical University of Berlin), André Baresel (QVI
+      Tech GmbH) and
+      Joachim Wegener (DaimlerChrysler)
+      Improving Evolutionary Testing in the Presence of Function-Assigned
+      Flags
+
+3.30  Tea
+4:00  Paper Session 2 - Techniques, Methods and Tools
+
+      Stephen Allot (Electromind)
+       Testing techniques - are they of any practical use?
+
+      Paul Gerrard (Gerrard Consulting)
+       Development of Methods and Tools for ERP Implementations
+
+5:00  Paper Session 3 - Model-Based Testing
+
+      Paul Baker and Clive Jervis (Motorola)
+      Early UML Model Testing using TTCN-3 and the UML Testing Profile
+
+      Florentin Ipate and Raluca Lefticaru (University of Pitesti)
+      State-based Testing is Functional Testing!
+
+6:00  Close
+7:00  Dinner
+
+
+Day Two, Thursday 13th September
+
+8:00  Breakfast
+9:00  Paper Session 4 - PhD Papers
+
+      Eduardo Aranha and Paulo Borba (University of Pernambuco and Motorola)
+
+      Test Effort Estimation Models Based on Test Specifications
+
+      Andrea Arcuri and Xin Yao (University of Birmingham)
+      On Test Data Generation of Object-Oriented Software
+
+      Konstantinos Liaskos and Marc Roper (University of Strathclyde)
+      Automatic Test-Data Generation: An Immunological Approach
+
+      Liang Huang, Chris Thomson and Mike Holcombe (University of Sheffield)
+      How good are your testers? An assessment of testing ability
+
+10.20       Coffee
+10:45       Tools Session
+12.30       Lunch
+2:00  Walk
+3.30  Tea
+4:00  Paper Session 5 - Fault Localisation and Prediction
+
+      Rui Abreu, Peter Zoeteweij, Arjan J.C. van Gemund (Delft University of
+      Technology)
+      On the Accuracy of Spectrum-based Fault Localization
+
+      David Binkley, Henry Feild, Dawn Lawrie (Loyola College),
+      Maurizo Pighin (Universita' degli Studi di Udine)
+      Software Fault Prediction using Language Processing
+
+5:00  Close
+5:30  Poster Session
+7:00  Conference Banquet
+
+
+
+
+
+Day Three, Friday 14th September
+
+8:00  Breakfast
+9:00  Keynote: Andreas Zeller (Saarland University)
+10.30       Coffee
+11:00       Speed Dating
+12.30       Lunch
+2:00  Paper Session 6 - Constraint-Based Testing and Constraint Solving
+
+      Florence Charreteur (IRISA/Univ. de Rennes), Bernard Botella (CEA
+      LIST) and
+      Arnaud Gotlieb (IRISA/INRIA Rennes)
+      Modelling Dynamic Memory Management in Constraint-Based Testing
+
+      Myra Cohen, Matthew Dwyer and Jiangfan Shi (University of Nebraska-
+      Lincoln)
+      Exploiting Constraint Solving History to Construct Interaction Test
+      Suites
+
+3.00  Tea
+3:30  Industrial Panel, Next Steps & Closing Remarks
+5:00  Close
+
+Mutation 2007 Organisation
+
+General Chair:  Mark Harman (King's College London)
+
+Programme Co-Chairs:  John Clark (University of York) & Jeff Offutt (George
+Mason University)
+
+Publicity Chair:  Phil McMinn (University of Sheffield)
+
+Web Site Manager:  Shuang Wang (George Mason University)
+
+Mutation 2007 Sponsorship
+
+    . Certess, Inc.
+
+Mutation 2007 Programme Committee
+
+    . Roger Alexander, USA
+
+    . Paul Ammann, USA
+
+    . Jamie Andrews, Canada
+
+    . Benoit Baudry, France
+
+    . Len Bottaci, UK
+
+    . Byoungju Choi, Korea
+
+    . James Cordy, Canada
+
+    . Rich DeMillo, USA
+
+    . Sudipto Ghosh, USA
+
+    . Mark Hampton, France
+
+    . Rob Hierons, UK
+
+    . Bill Howden, USA
+
+    . Yong-Rae Kwon, Korea
+
+    . Yves Le Traon, France
+
+    . Richard Lipton, USA
+
+    . Ling Liu, China / Europe
+
+    . YuSeung Ma, Korea
+
+    . Jose' Carlos Maldonado, Brazil
+
+    . Aditya Mathur, USA
+
+    . Phil McMinn, UK
+
+    . Eric Wong, USA
+
+    . Tao Xie, USA
+
+    . Lu Zhang, China
+
+
+
+
+Mutation 2007 Keynote Speaker
+
+Richard A. DeMillo, Georgia Institute of Technology, USA
+
+Richard A. DeMillo leads the College of Computing at Georgia  Tech,  one  of
+the highest-ranking computer science programmes in the country.  His  return
+to academia after a career as  an  industry  and  government  executive  was
+somewhat of a homecoming, since he earned his Ph.D. at Tech  and  served  as
+Professor of Information  and  Computer  Science  at  Tech  from  1976-1987.
+Before joining the College in 2002, DeMillo  was  chief  technology  officer
+for Hewlett-Packard (HP). Prior to HP, DeMillo was in charge of  information
+and computer sciences research at Telcordia Technologies. DeMillo  has  also
+directed the Computer and Computation  Research  division  of  the  National
+Science Foundation and continues to be active in  many  aspects  of  the  IT
+industry. He is a fellow of the ACM and the  American  Association  for  the
+Advancement of Science.
+
+
+
+
+
+Mutation 2007 Programme
+
+Day One, Monday 10 September
+
+10:00       Arrival and Coffee
+10:30       Welcome to Mutation 2007 (Mark Harman, John Clark and Jeff
+Offutt)
+10:50       Short Break
+11:00       Keynote: Richard A.  DeMillo
+12:30       Lunch
+2:00  Paper Session 1 - Model-Based Mutation
+
+      Robert Hierons (Brunel University) and
+      Mercedes Merayo (Universidad Complutense de Madrid)
+      Mutation Testing from Probabilistic Finite State Machines
+
+      Mark Trakhtenbrot (Holon Institute of Technology)
+      New Mutations for Evaluation of Specification and Implementation
+      Levels of Adequacy in Testing of Statecharts Models
+
+      Gordon Fraser and Franz Wotawa (Graz University of Technology)
+      Mutant Minimization for Model-Checker Based Test-Case Generation
+
+3:30  Tea
+4:00  Paper Session 2 - Mutation Analysis Tools
+
+      Sean Irvine, Tin Pavlinic, Leonard Trigg (Reel Two Ltd.), John Cleary
+      (University of Waikato) and
+      Stuart Inglis (Reel Two Ltd.)
+      Jumble Java Bytecode to Measure JUnit Effectiveness
+
+      Lydie du Bousquet and Michel Delaunay (LIG-LSR)
+      ALien-V: A mutation tool for Lustre programs
+
+      Michael Ellims (Pi Shurlok and Open University), Darrel Ince and
+      Marian Petre (Open University)
+      The Csaw C Mutation Tool: Initial Results
+
+5:30  Close
+7:00  Workshop Banquet (sponsored by Certess)
+
+
+
+
+
+Day Two, Tuesday 11 September
+
+8:00  Breakfast
+ 9:00       Paper Session 3 - Experimentation with Mutation
+
+      Ben Smith and Laurie Williams (North Carolina State University)
+      An Empirical Evaluation of Killing Mutants
+
+      Mark Hampton and Stephane Petithomme (Certess Inc.)
+      Leveraging a Commercial Mutation Analysis Tool For Research
+
+      Jeremy Bradbury, James Cordy and Juergen Dingel (Queen's University)
+      Comparative Assessment of Testing and Model Checking Using Program
+      Mutation
+
+10:30       Coffee
+11:00       Panel Session
+12:30       Lunch
+1:30  Walk
+2:50  Tea
+3:00  The Future of Mutation Testing: Community 'Think-in'
+4:00  Paper Session 4 - Mutation for Security Testing
+
+      Songtao Zhang, Thomas Dean (Queens University) and
+      Scott Knight (Royal Military College of Canada)
+      A Lightweight Approach to State Based Security Testing
+
+      Tejeddine Mouelhi, Yves Le Traon (ENST - Bretagne) and Benoit Baudry
+      (IRISA / INRIA)
+      Mutation analysis for security tests qualification
+
+5:00  Close
+
+7:00  Dinner (for Mutation 2007 guests staying for TAIC PART 2007)
+
+
+
+
+
+
+Contents
+
+Papers to appear under the following headings in programme order:
+
+
+
+TAIC PART 2007
+
+Keynote paper (paper by Ernst et al.)
+
+Paper Session 1 - Automatic Test Case Generation
+
+Paper Session 2 - Techniques, Methods and Tools
+
+Paper Session 3 - Model-Based Testing
+
+Paper Session 4 - PhD Papers
+
+Paper Session 5 - Fault Localisation and Prediction
+
+Paper Session 6 - Constraint-Based Testing and Constraint Solving
+
+Posters (poster papers to appear in author-alphabetical order)
+
+
+
+Mutation 2007
+
+Paper Session 1 - Model-Based Mutation
+
+Paper Session 2 - Mutation Analysis Tools
+
+Paper Session 3 - Experimentation with Mutation
+
+Paper Session 4 - Mutation for Security Testing
+

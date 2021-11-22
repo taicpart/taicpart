@@ -1,0 +1,105 @@
+﻿Call for Papers
+ 
+TAIC PART 2016 – 11th Workshop on Testing: Academia-Industry Collaboration,
+Practice and Research Techniques
+http://www.taicpart.org/
+ 
+April 11, 2016, Chicago, IL, USA
+Co-located with IEEE International Conference on Software Testing, Verification
+and Validation (ICST 2016)
+
+  
++++ TRICENTIS Best Paper Award +++
+
+The best paper wins an iPad Air 2! Kindly sponsored by Tricentis - The Continuous 
+Testing Company (http://www.tricentis.com). The best paper will be selected from 
+the submitted regular papers based on the reviews by the program committee.
+
+
++++ Important Dates +++
+ 
+Submission: January 22, 2016
+Notification: February 19, 2016
+Workshop: April 11, 2016
+
+  
++++ Theme and Goals +++
+ 
+TAIC PART is a workshop co-located with ICST 2016 that aims to forge collaboration 
+between industry and academia on the challenging and exciting problem of 
+real-world software testing. It is promoted by representatives of both industry 
+and academia, bringing together industrial software engineers and testers with 
+researchers working on theory and practice of software testing.
+ 
+The goals of TAIC PART range from the articulation of research questions in the 
+field of software testing and analysis to practical challenges faced in industry. 
+The common theme is the discussion and advancement of approaches and methods for 
+sustainable collaboration between academia and industry in software testing.
+
+  
++++ Topics of Interest +++
+ 
+TAIC PART invites submissions relevant to practice and research including
+ 
++ Industry experience reports: practical and generalizable insights into how to
+  apply and extend existing approaches to software testing and analysis
++ Research methods for collaborative research: ways that industry and academia
+  can collaborate to further knowledge on testing, verification and validation
++ Industrial challenges with real-world testing: describe a real-world software
+  testing problem for which industry seeks help from academia or vice versa
++ Knowledge exchange between industry and academia: how can new results and
+  knowledge be exchanged between the two partners
+
+  
++++ Submission and Proceedings +++
+ 
++ Regular Papers (6 pages): Experience reports, research papers, longer challenge
+  papers (extension up to 10 pages may be possible on request)
++ Fast Abstracts (up to 2 pages): Challenges in practice and research, work in
+  progress, positions statements
+ 
+Authors should submit a PDF version of their paper through the TAIC PART 2016
+paper submission site: http://easychair.org/conferences/?conf=taicpart2016.
+All accepted papers will be part of the ICST joint workshop proceedings published
+in the IEEE Digital Library.
+
+ 
++++ Organization and Contact +++
+ 
++ Rudolf Ramler, Software Competence Center Hagenberg, Austria (General Chair)
++ Michael Felderer, University of Innsbruck, Austria (Program Co-Chair)
++ Takashi Kitamura, National Institute of Advanced Industrial Science and 
+  Technology (AIST), Japan (Program Co-Chair)
++ Darko Marinov, University of Illinois at Urbana-Champaign, USA (Local Chair)
+ 
+If you have any questions or require more information on TAIC PART 2016, please
+visit http://www2016.taicpart.org/ or write to rudolf.ramler(at)scch.at.
+
+ 
++++ Program Committee +++
+ 
+Pekka Aho, VTT, Finland
+Cyrille Artho, Nat. Inst. of Advanced Industrial Science and Technology, Japan
+Jeff Ayars, Groupon, USA
+Sigrid Eldh, Ericsson AB, Sweden
+Emelie Engström, Lund University, Sweden
+Vladimir Entin, OMICRON electronics, Austria
+Robby Findler, Northwestern University, USA
+Elizabeta Fourneret, University of Franche-Comté, France
+Vahid Garousi, Yusifoglu Atilim University, Turkey
+Mark Harman, University College London, United Kingdom
+Sam King, Twitter Inc., USA
+Bogdan Korel, Illinois Institute of Technology, USA
+Johann Krautlager, Airbus Helicopters, Germany
+Shan Lu, University of Chicago, USA
+Mika Mäntylä, University of Oulu, Finland
+Stefan Mohacsi, Atos, Austria
+Shin Nakajima, National Institute of Informatics, Japan
+Reinhold Plösch, Johannes Kepler University Linz, Austria
+Mukul Prasad, Fujitsu, USA
+Ina Schieferdecker, Fraunhofer FOKUS, Germany
+Per Runeson, Lund University, Sweden
+Haruto Tanno, NTT, Japan
+Guilherme Travassos, Federal University of Rio de Janeiro, Brazil
+Tatsuhiro Tsuchiya, Osaka University, Japan
+Peter Zimmerer, Siemens Corporate Technology, Germany

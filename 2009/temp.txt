@@ -1,0 +1,38 @@
+giulio.antoniol@gmail.com                        yes
+Paul.Baker@motorola.com                          yes
+binkley@cs.loyola.edu                            yes
+myra@cse.unl.edu                                 yes
+jac@cs.york.ac.uk                                yes
+Mireille.Ducasse@irisa.fr                        no, alternative
+dwyer@cse.unl.edu                                no
+Sigrid Eldh   sigrid.eldh@ericsson.com           yes
+ievans@testing-solutions.com		         out 1-4-08
+paul@gerrardconsulting.com                       yes
+mark.harman@kcl.ac.uk                            yes
+Mary Jean Harrold mjharrold@gmail.com            no
+hennell@ldra.com                                 yes
+rob.hierons@brunel.ac.uk                         yes
+m.holcombe@dcs.shef.ac.uk
+mathai.joseph@tcs.com
+korel@iit.edu
+P.Krause@surrey.ac.uk                            no, not test researcher
+Yvan Labiche    labiche@sce.carleton.ca          yes
+b.littlewood@csr.city.ac.uk                      yes
+Wassim Masri      wm13@aub.edu.lb                yes
+J.May@bristol.ac.uk                              yes
+p.mcminn@dcs.shef.ac.uk                          yes
+robby@cis.ksu.edu                                yes
+s.c.reid@cranfield.ac.uk
+ricca@itc.it
+brian.shea@vizuri.co.uk                            yes
+cstewart@uk.ibm.com                                yes
+ural@site.uottawa.ca                               yes
+wvisser@email.arc.nasa.gov
+joachim.wegener@daimlerchrysler.com
+zhao-jj@cs.sjtu.edu.cn                              yes
+Prof. Hong Zhu    hongzhu@btinternet.com            yes
+
+Antonia Bertolino  antonia.bertolino@isti.cnr.it    no, alternative 
+Atif M. Memon  atif@cs.umd.edu                      yes
+Atanas Rountev rountev@cse.ohio-state.edu           no,
+Michael Ernst  mernst@csail.mit.edu                 no

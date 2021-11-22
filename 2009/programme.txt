@@ -1,0 +1,122 @@
+
+
+TAIC PART 2008 Programme
+
+Day One, Friday, 29 August
+
+10:00 	Arrival and Coffee
+
+10:30 	Welcome to TAIC PART 2008
+
+11:00 	Invited Talk: Les Hatton
+
+12.30 	Lunch
+
+2:00 	Paper Session 1 – Research
+
+  André Takeshi Endo, Adenilso da Silva Simão, Simone do Rocio Senger de Souza and Paulo Sergio Lopes de Souza 
+  Web Services Composition Testing: A Strategy Based on Structural Testing of Parallel Programs
+
+  Timea Illes-Seifert and Barbara Paech 
+  Exploring the relationship of a file Exploring the relationship of a file's history and its fault-proneness: An empirical study
+
+  Xun Yuan and Atif M Memon 
+  Alternating GUI Test Generation and Execution to Prune Test Space 
+ 
+3.30 	Tea
+
+4:00 	Paper Session 2 – Industry Challenge
+  
+  Eric Piel
+  Testing Challenges of Maritime Safety and Security Systems-of-Systems
+  
+  Paul Gerrard
+  Test Axioms as Thinking Tools 
+ 
+
+5:00	Paper Session 3 – Industry Experience
+  
+  Nicolas Guelfi, Benoît Ries
+  Selection, Evaluation and Generation of Test Cases in an Industrial Setting: a Process and a Tool
+  
+  Matthew Nicolas Kreeger and Nicholas Lativy 
+  Abandoning Proprietary Test Tools for Graphical User Interface Verification 
+
+6:00	Close
+
+7:00 	Dinner
+
+Day Two, Saturday, 30 August
+
+8:00 	Breakfast
+
+9:00 	Paper Session 4 – Tools
+
+  Xin Feng, Simon Marr and Tony O'Callaghan 
+  ESTP: An Experimental Software Testing Platform
+  
+
+  Sven Türpe, Andreas Poller, Jürgen Repp, Jan Trukenmüller, Christian Bornmann
+  Supporting Security Testers in Discovering Injection Flaws
+
+
+  Anthony J H Simons, Neil Griffiths and Christopher Thomson
+  Feedback-Based Specification, Coding and Testing with JWalk
+ 
+10.30 	Coffee
+
+11:00 Paper Session – Fast Abstracts
+
+12:00 Tool Demonstrations
+
+12.30 	Lunch 
+
+2:00 	Walk
+
+3.30 	Tea
+
+4:00 	Invited Talk: David Vandervoort
+
+5:00 	Paper Session 5 – Industrial Experience
+
+  Gustav Munkby and Sibylle Schupp 
+  Improving Fault Injection of Soft Errors using Program Dependencies
+  
+  Sebastian Wieczorek, Alin Stefanescu, Mathias Fritzsche and Joachim Schnitter
+  Enhancing Test Driven Development with Model Based Testing and Performance Analysis
+ 
+6:00 	Close
+
+
+7:00	Conference Banquet
+
+
+Day Three, Sunday 31 August 
+
+8:00	Breakfast
+
+9:00 	Paper Session 6 -	Tools 
+
+  Sara Sprenkle, Holly Esquivel, Barbara Hazelwood, Lori Pollock 
+  A Visualization Tool for Applying Automated Oracles and WebVizOr: Analyzing Test Results of Web Application 
+
+  Yue Jia and Mark Harman 
+  MILU : A Customizable,Runtime-Optimized Higher Order Mutation Testing Tool for the Full C Language
+  
+  Alex Ruiz 
+  GUI Testing Made Easy
+
+10.30 	Coffee
+
+11:00 	Speed Dating 
+
+12.30 	Lunch
+
+2:00 	Paper Session 6 – Fast Abstracts
+
+3.00 	Tea
+
+3:30 	Next Steps & Closing Remarks
+
+4:00	Close
+

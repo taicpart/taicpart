@@ -1,0 +1,134 @@
+
+A Message from the TAIC PART 2008 Chairs 
+
+Welcome to TAIC PART 2008. TAIC PART is a unique event that strives to
+combine aspects of a conference, a workshop and a retreat. Its purpose
+is to bring together industrialists and academics in an environment
+that promotes fundamental collaboration on problems in software
+testing. Among the wide range of topics in computer science and
+software engineering, software testing is an ideal candidate for
+academic and industrial collaboration because advances in research can
+have such wide ranging and far reaching implications for
+industry. Conversely, the advances in computing and communications
+technology and the growth of the associated software engineering
+activity are producing new research challenges at an increasing rate.
+
+The problems that arise in software testing are related to the
+problems that arise in many other areas of computing.  As such,
+testing research combines a wide range of elements encompassing the
+theoretical work of program analysis and formal methods and the
+associated representations such as finite state machines and
+dependence graphs. The inherent complexity of software testing has led
+to the involvement of heuristic methods.  Software testing is also a
+human activity and has thus seen the involvement of psychology,
+sociology and even philosophy. This astonishing breadth and depth have
+made the problems of software testing appealing to academics for
+several decades.
+
+Industrial activities are, of course, the fundamental source of the
+software testing problems to which research is directed. Software now
+controls safety critical systems from chemical plants and national
+nuclear defence systems, through sophisticated fly-by-wire commercial
+aircraft, to the airbag and brake controllers in our motor cars.
+These problems have a strong technical aspect but they also have
+economic and social aspects.  This explains the variety of disciplines
+that have contributed to software testing research.  Industrialists
+are not only the source of research problems but they are also
+significant contributors to the solutions of these problems,
+particular in the development of tools and methods.  Many of the
+industrial tools used in software testing today are based on research
+ideas and prototypes.
+
+The consequences of software failure are hard to overstate and so it
+is with these pressing concerns in mind that TAIC PART seeks to bring
+academics and industrialists together in a retreat setting, allowing
+for interaction, extended discussion and joint work that is not
+possible in the rushed schedule of a conventional conference
+format. As organisers, we have aimed to ensure that there is a
+productive mix of academic and industrial involvement in this rather
+special event. We are delighted that we have been able to secure
+industrial sponsorship for the event, ensuring the full and committed
+participation of the industrial community. We would like to thank our
+TAIC PART sponsors: Gerrard Consulting and LDRA.
+
+The programme committee have also worked hard to ensure that the event
+lives up to the standards of academic rigor, ensuring that the event
+fully engages with the academic community. Putting together the
+programme has been both enjoyable and challenging. The event received
+25 paper submissions.  After a rigorous reviewing process in which
+each paper was reviewed by at least three reviews followed by
+programme committee discussions, 15 papers were accepted.  Four of
+these papers were from industry, eight from academia and three from
+collaborations between industry and academia.  The papers originate
+from eight countries in North and South America and Europe. A special
+thank you is due to the programme committee for the outstanding
+quality of their reviews which were produced promptly to a short
+deadline.  We believe that for the authors, this is the most sincere
+and valuable reward for their hard work and expertise (whether or not
+their papers were accepted). TAIC PART seeks to encourage and
+facilitate high quality reviewing, since it plays such a vital role in
+the development of this subject. In addition to the submitted papers,
+TAIC PART has two outstanding invited speakers, Les Hatton of Kingston
+University and Oakwood Computing, and David Vandervoort of Testronic
+Labs, whom we thank for their contributions and for attending the
+conference.
+
+As well as industrial sponsorship, TAIC PART has also received the
+kind and valuable support of the Engineering and Physical Sciences
+Research Council (the EPSRC). The EPSRC is the UK government funding
+body for the sciences and engineering. We hope that our distinguished
+guests from outside the UK will allow the UK participants a small
+measure of pride in the UK’s research and practice track record in
+software testing and the recognition that such funding represents.
+
+We are very grateful to the international community for their
+participation and we would like to extend a very warm welcome to all
+our visitors to TAIC PART 2008, both from within and outside the
+United Kingdom. We hope that you find the technical content
+stimulating and the environment perfect for establishing and deepening
+research collaborations.
+
+A complex event like TAIC PART cannot be organised without the help of
+a committed team of organisers. We would therefore like to extend a
+very warm thanks to all the staff at the Cumberland Lodge who have
+been marvellous in their dedicated assistance. The event would not be
+nearly so appealing without their support, kindness and
+professionalism. The staff at the IEEE have also been very helpful in
+using their resources to produce the proceedings and we would like to
+thank them for their support and assistance. We are also very grateful
+to Professor Claes Wohlin, the Editor in Chief of the Journal of
+Information and Software Technology for agreeing to a special section
+of extended selected papers from TAIC PART. Finally, Matthew Engel has
+worked particularly hard on developing and maintaining an excellent
+web presence. Thank you all very much for your hard work and support.
+
+Marc Roper (General Chair), Gregory Kapfhammer and Leonardo Bottaci
+(Programme Chairs)
+
+TAIC PART 2008 Programme Committee
+
+Academic Members
+
+* Giulio Antoniol, University of Sannio, Italy
+* David Binkley, Loyola College Maryland,USA
+* Leonardo Bottaci, University of Hull, UK
+* Myra Cohen, University of Nebraska-Lincoln, USA
+* Mark Harman, Kings College London, UK
+* Rob Hierons, Brunel University, UK
+* Gregory Kapfhammer, Allegheny College, USA
+* Yvan Labiche, Carleton University, Canada
+* Bev Littlewood, City University London, UK
+* Wassim Masri, American University of Beirut, Lebanon 
+* Phil McMinn, University of Sheffield, UK
+* Atif Memon, University of Maryland, USA
+* Filippo Ricca, ITC-irst, Trento, Italy
+* Hasan Ural, University of Ottawa, Canada
+* Marc Roper, University of Strathclyde, UK
+
+Industrial Members
+
+* Paul Baker, Motorola, UK
+* Paul Gerrard, Gerrard Consulting, UK
+* Clive Stewart, IBM, UK
+
+

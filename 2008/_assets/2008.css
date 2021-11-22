@@ -1,0 +1,246 @@
+/*TAIC PART 2008 Style Sheet*/
+
+/*Original CSS provided by ? */
+body {
+	margin-top: 0px;
+	font-family: verdana, sans-serif;
+}
+
+#container_top 
+{
+    /*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+    margin: 0px auto 0px auto;
+    width: 800px;
+    min-width: 800px;
+    /*color: #7C96A1;*/
+    /*color: #000;*/
+    text-align: center;
+    /*border: solid 1px Black;*/
+}
+
+#banner img {
+   border: 0px;
+}
+/*******************Start Header****************************/
+#banner 
+{
+  	/*position: relative;*/
+	color: #FFF;
+	/*border: 1px solid #17579F;*/
+	/*margin: 0px 300px 0px 300px;*/
+	margin: 0px auto 0px auto;
+	width: 800px;
+    min-width: 800px;
+	padding: 0px 0px 0px 0px;
+	/*z-index: 1;*/
+	/*padding-left: 10px; */
+	/*overflow: hidden;*/
+	/*top: inherit;
+	height: auto;
+	width: auto;*/
+}
+
+.logo 
+{
+    /*position: inherit;*/
+	background: url("/_assets/images/banner2008.JPG") no-repeat; 
+}
+
+.no_text {
+	/*position: absolute;*/
+	/*float: left;*/
+	width: 275px;
+	/*height: 115px;*/
+	/*border: 1px solid #17579F;*/
+	/*text-indent: -100em;	*/
+	text-decoration: none;
+}
+
+/*******************END OF Header****************************/ 
+
+/**************TAB Menu*************************************/
+#tabmenu {
+	position: relative;
+	color: #FFF;
+	border-bottom: 1px solid #17579F;
+	margin: 10px 2px 0px 0px;
+	padding: 1px 1px 0px 0px;
+	z-index: 1;
+	/*padding-left: 10px; */
+	/*overflow: hidden;*/
+}
+
+#tabmenu li {
+	display: inline;
+	overflow: visible;
+	list-style-type: none; 
+}
+
+
+#tabmenu a, a.active {
+	color: #FFF;
+	background: #17579F;
+	font: bold 1em "Trebuchet MS", Arial, sans-serif;
+	border: 1px solid #17579F;
+	/*border-bottom: 2px solid #06183E;*/
+	padding: 0px 5px 0px 5px;
+	margin: 0;
+	text-decoration: none; 
+	overflow: visible;
+	font-size:10pt;
+}
+
+#tabmenu a.active {
+	color: #17579F;
+	background: #FFF;
+	border-bottom: 2px solid #FFF;
+	overflow: visible;
+}
+
+#tabmenu a:hover {
+	color: #17579F;
+	background: #fff;
+	text-decoration: underline; 
+}
+
+#tabmenu a:visited {
+	/*color: #06183E;*/
+}
+
+#tabmenu a.active:hover {
+	background: #fff;
+	color: #17579F;
+	text-decoration: none; 
+	overflow: visible;
+}
+/*******************END OF TAB MENUS****************************/
+
+/*******************start FEATURE****************************/
+
+#feature {
+	margin: 0px auto 0px auto;
+	padding: 2px 2px 2px 2px;
+	width: 800px;
+	min-width: 800px;
+	/*border: solid 1px Black;*/
+	height: auto;
+}
+
+/*******************End FEATUREt****************************/
+
+/*******************start STORY****************************/
+#story
+{
+    /*border: solid 1px Red;*/
+    /*border-top: 3px solid #17579F;*/
+    /*float: left;*/
+    width: 800px;
+	min-width: 800px;
+	padding: 0px 0px 0px 0px;
+	margin: 10px auto 0px auto;
+}
+
+#story p{
+	text-indent: 20px;
+	text-align: left;
+	color: Black;
+	font-family:  Verdana, Sans-Serif;
+	font-size: 12pt;
+}
+
+#story b{
+	text-indent: 20px;
+	text-align: left;
+	color: #A10B12;
+	font-family:  Verdana, Sans-Serif;
+	font-size: 12pt;
+}
+
+#story img {
+   float: right;
+   border: 0px;
+   margin: 2px 0px 2px 2px;
+}
+
+#story a, a:active, a:visited 
+{
+    color: #17579F;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#story a:hover {
+    text-decoration: underline;
+}
+
+#story h1 {
+    font-family: Serif;
+    font-size: 18pt;
+    font-weight: normal;
+    color: #A10B12;
+    margin-bottom: -5px;
+    text-align: left;
+}
+/*******************end STORY****************************/
+
+/*******************start FEATURE****************************/
+h2 {
+	font-family: serif;
+	font-size: 16pt;
+	font-weight: normal;
+	color: #A10B12;
+	margin-top: 12px;
+	margin-bottom: 0px;
+}
+
+#acknowledge {
+	margin: 0px auto 0px auto;
+	padding: 0px 20px 0px 20px;
+	width: 800px;
+	min-width: 800px;
+	/*border: solid 1px Black;*/
+	height: auto;
+	text-align: center;
+}
+
+#acknowledge img 
+{
+    border: 0px;
+}
+
+#acknowledge a:visited {
+	color: #FFF;
+}
+
+.sponsor 
+{
+    text-align: center;
+    float: right;
+    width: 440px;
+    padding: 0px 20px 10px 20px;
+    /*border: solid 1px Red;*/
+}
+
+.colab
+{
+    text-align: center;
+    float: left;
+    width: 310px;
+    /*border: solid 1px Red;*/
+}
+
+label.indent {
+	display:block;
+	margin-left: 15px;
+	width: 75%;      
+	text-align:left; 
+}
+
+#acknowledge h1 {
+    font-family: Serif;
+    font-size: 24pt;
+    font-weight: normal;
+    color: #A10B12;
+    margin-bottom: 5px;
+}
+/*******************End FEATUREt****************************/

@@ -1,0 +1,131 @@
+k
+Call for Papers TAIC PART 2019
+ 
+TAIC PART 2019 -- 14th Workshop on Testing: Academia-Industry Collaboration,
+Practice and Research Techniques
+http://www2019.taicpart.org/
+ 
+April 22, 2019, Xi'an, China
+Co-located with IEEE International Conference on Software Testing, Verification
+and Validation (ICST 2019)
+
+
++++ Important Dates +++
+ 
+Submission: January 21, 2019 (extended)
+Notification: February 9, 2019
+Camera-ready: February 15, 2019
+Workshop: April 22, 2019
+  
++++ Theme and Goals +++
+ 
+TAIC PART is a workshop that aims to forge collaboration between
+industry and academia on the challenging and exciting problem of
+real-world software testing. It is promoted by representatives of both
+industry and academia, bringing together industrial software engineers
+and testers with researchers working on theory and practice of
+software testing. TAIC PART expects submissions relevant to practice
+and research like evaluation of testing approaches by means of
+industrial surveys, case studies or experiments, experience reports on
+the application of scientific approaches in industry, or ideas on how
+to facilitate the knowledge transfer between industry and academia.
+
+The goals of TAIC PART range from the articulation of research
+questions in the field of software testing and analysis to practical
+challenges faced in industry. The common theme is the discussion and
+advancement of approaches and methods for sustainable collaboration
+between academia and industry in software testing.
+  
++++ Topics of Interest +++
+ 
+TAIC PART invites submissions relevant to practice and research including
+ 
++ Industry experience reports: practical and generalizable insights into how to
+  apply and extend existing approaches to software testing and analysis
++ Research methods for collaborative research: ways that industry and academia
+  can collaborate to further knowledge on testing, verification and validation
++ Industrial challenges with real-world testing: describe a real-world software
+  testing problem for which industry seeks help from academia or vice versa
++ Knowledge exchange between industry and academia: how can new results and
+  knowledge be exchanged between the two partners
+
+  
++++ Submission and Proceedings +++
+
+
++ Regular Papers (6 pages): Experience reports, research methods, longer 
+  challenge papers (optional up to 10 pages)
++ Fast Abstracts (up to 2 pages): Challenges in practice and research, work 
+  in progress, positions statements
+ 
+Regular papers will be evaluated with respect to the real-world
+significance of the described testing experience as well as their
+ability to forge partnerships and ultimately yield successful
+solutions. Fast Abstract papers are short papers that describe late
+breaking results, works in progress or real-world challenges and will
+be evaluated according to their ability to generate discussion and
+suggest interesting areas for future research.
+
+Authors should submit a PDF version of their paper through the TAIC
+PART 2019 paper submission site:
+http://easychair.org/conferences/?conf=taicpart2019. Papers must be
+written in English and conform to the two-column IEEE template for
+conference proceedings. All papers will undergo a rigorous review by
+at least three members of the program committee. All accepted papers
+will be part of the ICST joint workshop proceedings published in the
+IEEE Digital Library.
+  
+ 
++++ Organization and Contact +++
+ 
++ Guowei Yang, Texas State University, USA (General Chair)
++ Emil Alegroth, Blekinge Institute of Technology (BTH), Sweden (Program Co-Chair)
++ Rui Maranhao, University of Lisbon, Portugal (Program Co-Chair)
+
+If you have any questions or require more information on TAIC PART
+2019, please visit http://www2019.taicpart.org/ or write to
+gyang@txstate.edu.
+
+ 
++++ Program Committee +++
+Yulei Sui, University of Technology, Sydney, Australia
+Ting Su, Nanyang Technological University, Singapore
+Tao Zhang, Harbin Engineering University, China
+Haruto Tanno, NTT, Japan
+Bogdan Marculescu, Blekinge Tekniska Högskola, Sweden
+Thomas Bach, Heidelberg University, Germany
+Vladimir Entin, Omicron Electronics GmbH, Austria
+Tingting Yu, University of Kentucky, USA
+Hongyu Zhang, The University of Newcastle,Australia
+Lom Messan Hillah, Univ. Paris Nanterre and Sorbonne Université, France
+Peter Zimmerer, Siemens AG, Germany
+Stefan Mohacsi, Atos
+Shaukat	Ali, Simula Research Laboratory, Norway
+Cyrille Valentin Artho, KTH Royal Institute of Technology, Sweden
+Shin Nakajima, National Institute of Informatics, Japan
+Tatsuhiro Tsuchiya, Osaka University, Japan
+Mark Harman, University College London, UK
+Michael	Felderer, University of Innsbruck, Austria
+Hasan Sozer, Ozyegin University, Turkey
+Xusheng	Xiao, Case Western Reserve University, USA
+Manuel Oriol, ABB Corporate Research, Switzerland
+Vahid Garousi, Wageningen University, Netherlands
+Rudolf Ramler, Software Competence Center Hagenberg, Austria
+Elizabeta Fourneret, Smartesting Solutions and Services, France
+Hyunsook Do, University of North Texas, USA
+Michael	Unterkalmsteiner, Blekinge Institute of Technology, Sweden
+Hirohisa Aman, Ehime University, Japan
+Zheng Li, Beijing University of Chemical Technology, China
+Reinhold Ploesch, Johannes Kepler University, Austria 
+Sai Zhang, Google, USA
+Mika Mantyla, University of Oulu, Finland
+Takashi Kitamura, AIST, Japan
+
+
++++ Steering Committee +++
+
+Emelie Engstrom, Lund University, Sweden
+Michael Felderer, University of Innsbruck, Austria
+Mark Harman, University College London, United Kingdom
+Ina Schieferdecker, TU Berlin, Germany
+Rudolf Ramler, Software Competence Center Hagenberg, Austria

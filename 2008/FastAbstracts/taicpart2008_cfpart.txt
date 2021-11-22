@@ -1,0 +1,111 @@
+=====================================================================
+
+                          CALL FOR PARTICIPATION
+                             ----------------
+
+                 Testing: Academic and Industrial Conference - 
+                      Practice and Research Techniques
+                               (TAIC PART 2008)
+
+                          Windsor,  United Kingdom
+                            August 29 - 31, 2008
+
+                        http://www2008.taicpart.org/
+
+======================================================================
+
+-----------------
+  Theme and Goals
+-----------------
+
+   The Testing: Academic and Industrial Conference 2008 (TAIC PART
+   2008) establishes a forum for the publication of papers related to
+   software testing and analysis.  The theme of TAIC PART is
+   "transferring software testing technology from academia to
+   industry."  TAIC PART aims to forge collaborations between industry
+   and academia.  A goal of TAIC PART 2008 is the articulation of
+   fundamental research questions in the field of software testing and
+   analysis.  TAIC PART also focuses on the practical challenges that
+   are often faced by software developers in industry.
+
+------------------------
+  Call for Participation
+------------------------
+
+   After a rigorous reviewing process in which all of the submitted
+   papers were reviewed by at least three programme committee members,
+   followed by programme committee discussions, 15 papers were
+   accepted for publication at TAIC PART 2008.  Four of these papers
+   were from industry, eight from academia, and three from
+   collaborations between industry and academia.  In addition to the
+   published papers, TAIC PART 2008 has two outstanding invited
+   speakers, Les Hatton of Kingston University and Oakwood Computing,
+   and David Vandervoort of Testronic Labs.
+
+   TAIC PART 2006 and 2007 were assessed outstanding and
+   internationally leading in all categories by the EPSRC, who
+   provided significant funding to hold these past events. The
+   criteria included research quality, planning and practice,
+   scientific impact, communication of output, and benefits to
+   society. The conference organizers invite you to participate in
+   TAIC PART 2008 in order to continue the strong tradition of this
+   software testing conference.
+
+-------------------------
+  Call for Fast Abstracts
+-------------------------
+
+   TAIC PART 2008 also features a Fast Abstract Track that supports
+   the publication of short papers describing late breaking results or
+   works in progress. This TAIC PART track is an ideal venue for PhD
+   students who are interested in feedback about dissertation research
+   that is in its formative stages. These two page papers will be
+   available for download from the conference Web Site and authors
+   will present their papers alongside the other TAIC PART authors. As
+   the Important Dates indicate, there is still time to submit a fast
+   abstract.  More information is available at:
+
+    http://www2008.taicpart.org/FastAbstracts/
+
+-----------------
+  Important Dates
+-----------------
+
+Fast Abstracts:
+
+ 	July 19, 2008:	   	Paper Submission
+ 	July 31, 2008:	   	Author Notification
+      August 15, 2008:	   	Camera-Ready Copy
+
+Main Conference:
+
+   August 29-31, 2008:          TAIC PART in Windsor, UK  
+
+-------------------------
+  Conference Organization
+-------------------------
+
+    Conference Chair:
+      Marc Roper, University of Strathclyde
+				  
+    Program Co-Chairs:
+      Leonardo Bottaci, University of Hull 	
+      Gregory M. Kapfhammer, Allegheny College
+
+    Information Systems Chair:
+      Matthew Engel, Allegheny College
+
+    Programme Committee:
+      http://www2008.taicpart.org/Organization/ 
+
+------------------
+  More Information
+------------------
+
+   Visit the TAIC PART 2008 Web Site at:
+
+   	 http://www2008.taicpart.org/
+
+   Email your Questions or Comments to:
+
+   	 gkapfham@allegheny.edu 

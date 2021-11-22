@@ -1,0 +1,77 @@
+This is TeX, Version 3.14159 (Web2C 7.4.5) (format=latex 2006.11.3)  23 JUN 2008 16:37
+**paper2.tex
+(/usr/share/texmf/tex/latex/tools/.tex
+! Interruption.
+<to be read again> 
+                   \begingroup 
+l.1 
+    %%
+? 
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, n
+ohyphenation, loaded.
+File ignored)
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*exit
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> e
+     xit
+? quit
+OK, entering \batchmode...
+
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+<*> e
+     xit
+? 
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+
+*
+
+Overfull \hbox (20.0pt too wide) detected at line 0
+[] 
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*quit
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> q
+     uit
+? !
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? X
+ 
+Here is how much of TeX's memory you used:
+ 6 strings out of 95847
+ 250 string characters out of 1195948
+ 44507 words of memory out of 32000001
+ 3034 multiletter control sequences out of 10000+50000
+ 3640 words of font info for 14 fonts, out of 500000 for 1000
+ 14 hyphenation exceptions out of 1000
+ 5i,0n,4p,90b,14s stack positions out of 1500i,500n,5000p,200000b,5000s
+No pages of output.

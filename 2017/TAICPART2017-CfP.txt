@@ -1,0 +1,110 @@
+﻿Call for Papers TAIC PART 2017
+ 
+TAIC PART 2017 – 12th Workshop on Testing: Academia-Industry Collaboration,
+Practice and Research Techniques
+http://www.taicpart.org/
+ 
+March, 2017, Tokyo, Japan
+Co-located with IEEE International Conference on Software Testing, Verification
+and Validation (ICST 2017)
+
+
++++ Important Dates +++
+ 
+Submission: December 8, 2016
+Notification: January 2, 2017
+Workshop: March 13, 2017
+
+  
++++ Theme and Goals +++
+ 
+TAIC PART is a workshop co-located with ICST 2017 that aims to forge collaboration 
+between industry and academia on the challenging and exciting problem of 
+real-world software testing. It is promoted by representatives of both industry 
+and academia, bringing together industrial software engineers and testers with 
+researchers working on theory and practice of software testing.
+ 
+The goals of TAIC PART range from the articulation of research questions in the 
+field of software testing and analysis to practical challenges faced in industry. 
+The common theme is the discussion and advancement of approaches and methods for 
+sustainable collaboration between academia and industry in software testing.
+
+  
++++ Topics of Interest +++
+ 
+TAIC PART invites submissions relevant to practice and research including
+ 
++ Industry experience reports: practical and generalizable insights into how to
+  apply and extend existing approaches to software testing and analysis
++ Research methods for collaborative research: ways that industry and academia
+  can collaborate to further knowledge on testing, verification and validation
++ Industrial challenges with real-world testing: describe a real-world software
+  testing problem for which industry seeks help from academia or vice versa
++ Knowledge exchange between industry and academia: how can new results and
+  knowledge be exchanged between the two partners
+
+  
++++ Submission and Proceedings +++
+ 
++ Regular Papers (6 pages): Experience reports, research papers, longer challenge
+  papers (extension up to 10 pages may be possible on request)
++ Fast Abstracts (up to 2 pages): Challenges in practice and research, work in
+  progress, positions statements
+ 
+Authors should submit a PDF version of their paper through the TAIC PART 2017
+paper submission site: http://easychair.org/conferences/?conf=taicpart2017.
+All accepted papers will be part of the ICST joint workshop proceedings published
+in the IEEE Digital Library.
+
+Best paper award: Win an iPad! The best paper will be selected from the submitted 
+regular papers based on the reviews by the program committee.
+ 
+ 
++++ Organization and Contact +++
+ 
++ Takashi Kitamura, National Institute of Advanced Industrial Science and 
+  Technology (AIST), Japan (General Chair)
++ Emil Alegroth, Blekinge Institute of Technology (BTH), Sweden (Program Co-Chair)
++ Rudolf Ramler, Software Competence Center Hagenberg (SCCH), Austria (Program Co-Chair)
+
+If you have any questions or require more information on TAIC PART 2017, please
+visit http://www2017.taicpart.org/ or write to t.kitamura(at)aist.go.jp.
+
+ 
++++ Program Committee (to be extended) +++
+ 
+Pekka Aho, VTT, Finland
+Cyrille Artho, KTH Royal Institute of Technology, Sweden
+Emelie Engstrom, Lund University, Sweden
+Vladimir Entin, OMICRON electronics, Austria
+Michael Felderer, University of Innsbruck, Austria
+Elizabeta Fourneret, Smartesting, France
+Vahid Garousi, Hacettepe University, Turkey
+Maurizio Leotta, University of Genova, Italy
+Zheng Li, Beijing University of Chemical Technology, China
+Bogdan Marculescu, Blekinge Institute of Technology, Sweden
+Darko Marinov, University of Illinois at Urbana-Champaign, USA
+Mika Mantyla, University of Oulu, Finland
+Stefan Mohacsi, Atos, Austria
+Shin Nakajima, National Institute of Informatics, Japan
+Manuel Oriol, ABB Corporate Research, Switzerland
+Reinhold Ploesch, Johannes Kepler University Linz, Austria
+Rakesh Rana, Lero – The Irish Software Research Centre, Ireland
+Filippo Ricca, University of Genova, Italy
+Ina Schieferdecker, TU Berlin, Germany
+Hasan Sozer, Ozyegin University, Turkey
+Haruto Tanno, NTT, Japan
+Guilherme Horta Travassos, Federal University of Rio de Janeiro, Brazil
+Tatsuhiro Tsuchiya, Osaka University, Japan
+Michael Unterkalmsteiner, Blekinge Institute of Technology, Sweden
+Matthias Woehrle, Robert Bosch GmbH, Germany
+Peter Zimmerer, Siemens Corporate Technology, Germany
+
+
++++ Steering Committee +++
+
+Emelie Engstrom, Lund University, Sweden
+Michael Felderer, University of Innsbruck, Austria
+Mark Harman, University College London, United Kingdom
+Ina Schieferdecker, TU Berlin, Germany
+

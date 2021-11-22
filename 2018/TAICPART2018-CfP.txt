@@ -1,0 +1,109 @@
+Call for Papers TAIC PART 2018
+ 
+TAIC PART 2018 – 13th Workshop on Testing: Academia-Industry Collaboration,
+Practice and Research Techniques
+http://www2018.taicpart.org/
+ 
+April, 2018, Västerås, Sweden
+Co-located with IEEE International Conference on Software Testing, Verification
+and Validation (ICST 2018)
+
+
++++ Important Dates +++
+ 
+Submission: January 7, 2018
+Notification: February 11, 2018
+Workshop: February 25, 2018
+
+  
++++ Theme and Goals +++
+ 
+TAIC PART is a workshop co-located with ICST 2018 that aims to forge collaboration 
+between industry and academia on the challenging and exciting problem of 
+real-world software testing. It is promoted by representatives of both industry 
+and academia, bringing together industrial software engineers and testers with 
+researchers working on theory and practice of software testing.
+ 
+The goals of TAIC PART range from the articulation of research questions in the 
+field of software testing and analysis to practical challenges faced in industry. 
+The common theme is the discussion and advancement of approaches and methods for 
+sustainable collaboration between academia and industry in software testing.
+
+  
++++ Topics of Interest +++
+ 
+TAIC PART invites submissions relevant to practice and research including
+ 
++ Industry experience reports: practical and generalizable insights into how to
+  apply and extend existing approaches to software testing and analysis
++ Research methods for collaborative research: ways that industry and academia
+  can collaborate to further knowledge on testing, verification and validation
++ Industrial challenges with real-world testing: describe a real-world software
+  testing problem for which industry seeks help from academia or vice versa
++ Knowledge exchange between industry and academia: how can new results and
+  knowledge be exchanged between the two partners
+
+  
++++ Submission and Proceedings +++
+ 
++ Regular Papers (6 pages): Experience reports, research papers, longer challenge
+  papers (extension up to 10 pages may be possible on request)
++ Fast Abstracts (up to 2 pages): Challenges in practice and research, work in
+  progress, positions statements
+ 
+Authors should submit a PDF version of their paper through the TAIC PART 2018
+paper submission site: http://easychair.org/conferences/?conf=taicpart2018.
+All accepted papers will be part of the ICST joint workshop proceedings published
+in the IEEE Digital Library.
+ 
+ 
++++ Organization and Contact +++
+ 
++ Takashi Kitamura, National Institute of Advanced Industrial Science and 
+  Technology (AIST), Japan (Program Co-Chair)
++ Emil Alegroth, Blekinge Institute of Technology (BTH), Sweden (General Chair)
++ Guowei Yang, Texas State University, USA (Program Co-Chair)
+
+If you have any questions or require more information on TAIC PART 2018, please
+visit http://www2017.taicpart.org/ or write to Emil.Alegroth@Bth.se.
+
+ 
++++ Program Committee (to be extended) +++
+ 
+Tao Yue, Simula, Norway
+Thomas Bach, Heidelberg University, Germany
+Hirohisa Aman, Ehime University, Japan
+Rudolf Ramler, SCCH, Austria
+EunHye Choi, AIST, Japan
+Xiao Qu, ABB Corporate Research, USA
+Xusheng Xiao, Case Western Reserve Uni., USA
+Hongyu Zhang, The University of Newcastle, Australia
+Shaukat Ali, Simula, Norway
+Cyrille Artho, KTH, Sweden
+Shin Nakajima, National Institute of Informatics, Japan
+Tatsuhiro Tsuchiya, Osaka University, Japan
+Michael Unterkalmsteiner, Blekinge institute of Tech., Sweden
+Haruto Tanno, NTT, Japan
+Pekka, Aho, VTT, Finland
+Sigrid Eldh, Ericsson, Sweden
+Emilie Engström, Lund University, Sweden
+Vahid Garousi, Hacettepe Uni., Turkey
+Mark Harman, University College London, GB
+Mika Mäntylä, University of Oulu, Finland
+Stefan Mohacsi, Atos, Austria
+Reinhold Plösch, Hohannes Kepler University Linz, Austria
+Travassos Guilherme Horta, Universidade Federal do Rio, Brazil
+Peter Zimmerer, Siemens Corporate Tech. Germany
+Manuel Oriol, ABB Corporate Research, Switzerland
+Michael Felderer, University of Innsbruck, Austria
+Hasan Sözer, Özegin University, Turkey
+Darko Marinov, University of Illinois, USA
+Elizabeta Fourneret, University of Franche-Comte, France
+
+
++++ Steering Committee +++
+
+Emelie Engstrom, Lund University, Sweden
+Michael Felderer, University of Innsbruck, Austria
+Mark Harman, University College London, United Kingdom
+Ina Schieferdecker, TU Berlin, Germany

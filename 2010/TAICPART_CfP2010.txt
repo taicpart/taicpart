@@ -1,0 +1,150 @@
+CALL FOR PAPERS
+
+Testing: Academic and Industrial Conference -
+Practice and Research Techniques (TAIC PART 2010)
+
+Windsor, United Kingdom
+September 3 - 5, 2010
+
+http://www2010.taicpart.org/
+
+Theme and Goals:
+----------------
+TAIC PART is a conference that aims to forge collaboration between
+industry and academia on the challenging and exciting problem of
+software testing. It is sponsored by representatives of both industry
+and academia, bringing together commercial and industrial software
+developers and users with academic researchers working on the theory
+and practice of software testing. The goals of TAIC PART range from
+the articulation of fundamental research questions in the field of
+software testing and analysis to practical challenges that are often
+faced by software developers in industry.  TAIC PART is a unique event
+that strives to combine the important aspects of a software testing
+conference, workshop, and retreat.
+
+Keynote Speakers:
+-----------------
+Dr Wolfgang Grieskamp, Microsoft, USA
+Prof Sir Tony Hoare, Microsoft Research Cambridge, UK
+Prof Bertrand Meyer, ETH Zuerich, Switzerlad
+
+Call for Papers:
+----------------
+TAIC PART 2010 solicits papers on, but is not limited to, the
+following areas:
+
+- Test Adequacy Criteria
+- Test Suite Execution
+- Test Coverage Monitoring
+- Automated Test Data Generation
+- Regression Testing
+- Automated Debugging and Fault Localization
+- Performance Evaluation
+- Static and Dynamic Analysis
+- Verification and Validation
+- Software Reliability Engineering
+- Model-Based Testing
+- Testing and Formal Methods
+- Testing and Model Checking
+- Software Testing Process
+- Technology Transfer
+
+Submissions:
+------------
+We invite submission of papers of the following types:
+
+- Full papers (16 pages): Original research
+- Short papers (8 pages): Experience reports, tool papers, challenge
+   papers, PhD papers
+- Fast Abstracts (4 pages)
+
+Authors should submit a PDF version of their paper through the TAIC
+PART 2010 paper submission site. Papers must be written in English,
+and prepared according to Springer's LNCS style (guidelines:
+http://www.springer.de/comp/lncs/authors.html). All papers will
+undergo a rigorous review by at least three members of the program
+committee.
+
+- Original research papers will explore novel software testing ideas
+and techniques. These papers should furnish a detailed theoretical or
+empirical evaluation of the proposed approach.
+
+- Experience reports should provide practical and generalizable
+insights into how to apply and extend existing approaches to
+software testing and analysis and will be evaluated with respect to the
+significance and generality of the described testing experience.
+
+- Tool papers must focus on the design, implementation, and evaluation
+of software testing and analysis tools and will be judged by the
+technical merit, novelty, and evaluation of the tool.
+
+- Challenge papers describe a real-world software testing problem for
+which academics seek help from industry or vice versa and will be
+assessed according to their ability to forge partnerships and
+ultimately yield successful solutions.
+
+- PhD papers are for PhD students who are interested in receiving
+feedback about dissertation research that is an early stage. There
+will be a dedicated PhD session at the conference.
+
+- Fast Abstract papers are short papers that describes late breaking
+results or works in progress and will be evaluated according to their
+ability to generate discussion and suggest interesting areas for
+future research.
+
+Conference Proceedings:
+-----------------------
+Accepted papers will be published in a volume of the Springer Lecture
+Notes in Computer Science series (LNCS). 
+
+Special Issue:
+--------------
+Authors of the selected papers will be invited to submit extended
+versions of their papers for publication in a special issue of
+Software: Practice and Experience.
+
+Important Dates:
+----------------
+* Paper submission: April 23, 2010
+* Author notification: June 4, 2010
+* Camera-ready version due: June 25, 2010
+* Conference dates: September 3-5, 2010
+
+Conference Chair:
+-----------------
+Anthony Simons, Sheffield University, UK
+				
+Program Co-Chairs:
+------------------
+Leonardo Bottaci, University of Hull, UK
+Gordon Fraser, Saarland University, Germany
+
+Program Committee:
+------------------
+Rui Abreu, University of Porto, Portugal
+Paul Baker,  Motorola, UK
+Sigrid Eldh, Ericsson, Sweden
+Michael Ernst, University of Washington, USA
+Mark Harman, King's College, UK
+Rob Hierons, Brunel University, UK
+Daniel Hoffman, University of Victoria, Canada
+John Hughes, QuviQ, Sweden
+Gregory Kapfhammer, Allegheny College, USA
+Wes Masri, American University of Beirut, Lebanon
+Phil McMinn, Sheffield University, UK
+Atif Memon, University of Maryland, USA
+Jeff Offutt, George Mason University, USA
+Alexander Pretschner, Technische Universitaet Kaiserslautern, Germany
+Filippo Ricca, Università degli Studi di Genova, Italy
+Marc Roper, University of Strathclyde, Scotland
+Paul Strooper, The University of Queensland, Australia
+Nikolai Tillmann, Microsoft Research, USA
+Timea Illes-Seifert, University of Heidelberg, Germany
+Hasan Ural, University of Ottawa, Canada
+Neil Walkinshaw, Sheffield University, UK
+Elaine Weyuker, AT&T Research Labs, USA
+
+Website:
+--------
+http://www2010.taicpart.org/
+

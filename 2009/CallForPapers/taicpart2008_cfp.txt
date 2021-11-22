@@ -1,0 +1,190 @@
+=====================================================================
+
+                             CALL FOR PAPERS
+                             ---------------
+
+                 Testing: Academic and Industrial Conference - 
+                      Practice and Research Techniques
+                               (TAIC PART 2008)
+
+                          Windsor,  United Kingdom
+                            August 29 - 31, 2008
+
+                        http://www2008.taicpart.org/
+
+======================================================================
+
+-----------------
+  Theme and Goals
+-----------------
+
+   The Testing: Academic and Industrial Conference 2008 (TAIC PART
+   2008) establishes a forum for the publication of papers related to
+   software testing and analysis.  The theme of TAIC PART is
+   "transferring software testing technology from academia to
+   industry."  TAIC PART aims to forge collaborations between industry
+   and academia.  The goals of TAIC PART 2008 include the articulation
+   of fundamental research questions in the field of software testing
+   and analysis.  TAIC PART also focuses on the practical challenges
+   that are often faced by software developers in industry.
+
+-----------------
+  Call for Papers
+-----------------
+
+   TAIC PART 2008 solicits experience, tool, original research,
+   industry challenge, and academic challenge papers that explore
+   software testing and analysis techniques.  Research topics include,
+   but are not limited to, the following areas:
+    
+     Test Adequacy Criteria
+     Test Suite Execution
+     Test Coverage Monitoring
+     Automated Test Data Generation
+     Regression Testing
+     Automated Debugging and Fault Localization
+     Performance Evaluation
+     Static and Dynamic Analysis
+     Verification and Validation
+     Software Reliability Engineering
+     Model-Based Testing
+     Testing and Formal Methods
+     Testing and Model Checking
+     Software Testing Process
+     Technology Transfer
+
+   TAIC PART solicits papers that focus on the testing and analysis of
+   software applications that include, but are not limited to, the
+   following types:
+
+     Embedded and Real-Time Systems
+     Operating Systems 
+     Parallel, Distributed, and Cluster Applications
+     Service-Oriented Software Systems
+     Web Applications
+     Event-Based Systems
+     File and Storage Systems
+     Virtual Machine-Based Applications
+     Database Applications
+     XML Processing Systems
+     Graphical User Interfaces
+     Wireless Sensor Networks
+     Safety Critical Systems
+     AI and Machine Learning Systems
+     Business Applications
+
+-----------------
+  Types of Papers
+-----------------
+
+    - Experience reports should provide practical and generalizable
+      insights into how to apply and extend existing approaches to
+      software testing and analysis. 
+
+    - Tool papers must focus on the design, implementation, and
+      evaluation of software testing and analysis tools. 
+
+    - Original Research papers will explore novel software testing
+      techniques.  These papers should furnish a detailed theoretical
+      and/or empirical evaluation of the proposed approach.
+
+    - Industry Challenge papers must have at least one author whose
+      affiliation in non-academic.  These papers will describe a
+      real-world software testing problem for which help is sought
+      from the academic research community. 
+
+    - Academic Challenge papers must have at least one author
+      whose affiliation in non-industry.  These papers should explain
+      a software testing research problem for which help is sought
+      from industry partners. 
+
+------------------
+  Paper Evaluation
+------------------
+
+    All papers will undergo a rigorous examination by at least
+    three members of the program committee. The Program Co-Chairs and
+    the Program Committee will provide thoughtful and fair reviews
+    that furnish detailed insights into ways for improving and
+    extending the papers.  All submitted papers will be
+    evaluated according to (i) relevance to the conference themes and
+    goals and (ii) clarity and organization. 
+
+    - Experience reports will be evaluated with respect to the
+      significance and generality of the described testing experience.
+
+    - Research and tool papers will be judged by the technical merit,
+      novelty, and evaluation of the described technique or tool.
+
+    - Industry and academic challenge papers will be assessed
+      according to their ability to forge partnerships and ultimately
+      yield successful solutions.
+
+    The results described in the submitted paper must be unpublished
+    and should not be under review at other workshops, conferences, or
+    journals.
+ 
+------------------
+  Paper Formatting
+------------------
+
+    Papers should be formatted using the IEEE conference style
+    format. Including all references and figures, a research paper
+    must not exceed the ten page limit and the experience, tool, and
+    industry and academic challenge papers should not be longer than
+    five pages.  Papers should have an abstract that is no longer than
+    150 words. Please be aware that if your paper is accepted, the
+    abstract may appear in the advance program and on the TAIC PART
+    2008 Web site.  Authors should submit a PDF version of their paper
+    through the TAIC PART 2008 paper submission site.
+
+------------------------
+  Conference Proceedings
+------------------------
+
+    The accepted papers will be published with ISBN by the IEEE
+    Computer Society and they will appear in the IEEE digital library.
+    The presentations for all of the accepted papers will also be
+    provided for download on the TAIC PART 2008 Web site.  The
+    Conference Chair and Program Co-Chairs have arranged for a special
+    section of Information and Software Technology to contain extended
+    and revised versions of selected papers from TAIC PART 2008.
+
+-----------------
+  Important Dates
+-----------------
+
+          May 2, 2008 :     Abstract Submission
+          May 9, 2008 :     Paper Submission
+         June 6, 2008 :     Author Notification
+        June 21, 2008 :     Camera-Ready Copy
+   August 29-31, 2008 :     TAIC PART 2008
+
+-------------------------
+  Conference Organization
+-------------------------
+
+    Conference Chair:
+      Marc Roper, University of Strathclyde
+				  
+    Program Co-Chairs:
+      Leonardo Bottaci, University of Hull 	
+      Gregory M. Kapfhammer, Allegheny College
+
+    Information Systems Chair:
+      Matthew Engel, Allegheny College
+
+    Program Committee:
+      http://www2008.taicpart.org/Organization/ 
+
+------------------
+  More Information
+------------------
+
+   Visit the TAIC PART 2008 Web Site at:
+
+   	 http://www2008.taicpart.org/
+
+   Email your Questions or Comments to:
+
+   	 gkapfham@allegheny.edu 
