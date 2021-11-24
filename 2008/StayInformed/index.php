@@ -73,7 +73,7 @@
 	&lt;/td&gt;
 	&lt;td align="left"&gt;
 	&lt;a href = "http://www2008.taicpart.org"&gt;
-	&lt;img src = "http://www2008.taicpart.org/tp_advertise_nodate.png" 
+	&lt;img src = "2008/tp_advertise_nodate.png" 
 	border=0&gt;&lt;/img&gt;&lt;/a&gt;
 	&lt;/td&gt;
 	&lt;/tr&gt;
@@ -96,7 +96,7 @@
 	</td>
 	<td align="left">
 	<a href = "http://www2008.taicpart.org">
-	<img src = "http://www2008.taicpart.org/tp_advertise_nodate.png" 
+	<img src = "2008/tp_advertise_nodate.png" 
 	border=0></img></a>
 	</td>
 	</tr>

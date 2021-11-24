@@ -82,9 +82,9 @@ elseif(strcmp($activeTAB, "Sponsors") == 0)
     print "<li><a $sponTB href=\"/Sponsors/\">Sponsors</a></li>\n";
     print "<li><a $wuTB href=\"/WorkshopUpdates/\">Updates</a></li>\n";
 
-    #print "<li><a $presTB href=\"http://www2008.taicpart.org/presentations/\">Presentations & Posters</a></li>\n";
-    #print "<li><a $sdTB href=\"http://www2008.taicpart.org/speeddating/\">Speed Dating</a></li>\n";
-    #print "<li><a $phTB href=\"http://www2008.taicpart.org/photos/\">Photos</a></li>\n";
+    #print "<li><a $presTB href=\"2008/presentations/\">Presentations & Posters</a></li>\n";
+    #print "<li><a $sdTB href=\"2008/speeddating/\">Speed Dating</a></li>\n";
+    #print "<li><a $phTB href=\"2008/photos/\">Photos</a></li>\n";
     print "</ul>\n";
 #print "</div>\n";
     

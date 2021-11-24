@@ -3,7 +3,7 @@ Call for Papers TAIC PART 2019
  
 TAIC PART 2019 -- 14th Workshop on Testing: Academia-Industry Collaboration,
 Practice and Research Techniques
-http://www2019.taicpart.org/
+2019/
  
 April 22, 2019, Xi'an, China
 Co-located with IEEE International Conference on Software Testing, Verification
@@ -83,7 +83,7 @@ IEEE Digital Library.
 + Rui Maranhao, University of Lisbon, Portugal (Program Co-Chair)
 
 If you have any questions or require more information on TAIC PART
-2019, please visit http://www2019.taicpart.org/ or write to
+2019, please visit 2019/ or write to
 gyang@txstate.edu.
 
  

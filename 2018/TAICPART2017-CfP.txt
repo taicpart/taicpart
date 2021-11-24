@@ -68,7 +68,7 @@ regular papers based on the reviews by the program committee.
 + Rudolf Ramler, Software Competence Center Hagenberg (SCCH), Austria (Program Co-Chair)
 
 If you have any questions or require more information on TAIC PART 2017, please
-visit http://www2017.taicpart.org/ or write to t.kitamura(at)aist.go.jp.
+visit 2017/ or write to t.kitamura(at)aist.go.jp.
 
  
 +++ Program Committee (to be extended) +++

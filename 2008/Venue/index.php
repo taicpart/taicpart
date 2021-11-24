@@ -20,7 +20,7 @@
 <!-- End Tab Menu -->
 </div>
     <div id="story">
-            <p><a href="http://www2008.taicpart.org/Venue"><img src="/_assets/images/cumberland.jpg" width="200" height="254" alt="/_assets/images/cumberland.jpg"></img></a>
+            <p><a href="2008/Venue"><img src="/_assets/images/cumberland.jpg" width="200" height="254" alt="/_assets/images/cumberland.jpg"></img></a>
             The conference will be held at Cumberland Lodge, Windsor, UK, 29-31 August 2008. 
             <a href="http://www.cumberlandlodge.ac.uk/">Cumberland lodge</a> is a former royal residence given to the nation in 1946 by the late Queen Mother. 
             It is an ideal setting for a productive and enjoyable conference, 

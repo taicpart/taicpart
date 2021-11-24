@@ -67,16 +67,16 @@
 	  Conference Publishing Services (CPS) and thus all of
 	  the <b>accepted papers</b>, including the two page fast
 	  abstracts, must conform to <a href =
-	  "http://www2007.taicpart.org/formatting/instruct.pdf">IEEE
+	  "2007/formatting/instruct.pdf">IEEE
 	  conference style guidelines</a>. Microsoft Word users may
 	  use
 	  the <a
-	  href="http://www2007.taicpart.org/formatting/instruct.doc">Instruction
+	  href="2007/formatting/instruct.doc">Instruction
 	  </a> and <a href =
-	  "http://www2007.taicpart.org/formatting/format.doc">Format</a>
+	  "2007/formatting/format.doc">Format</a>
 	  documents as they structure their paper.  Latex users can
 	  download <a
-	  href="http://www2007.taicpart.org/formatting/IEEE_CS_Latex.zip">IEEE_CS_Latex.zip</a>
+	  href="2007/formatting/IEEE_CS_Latex.zip">IEEE_CS_Latex.zip</a>
 	  which contains the required style files.  </p>
 
 </div>

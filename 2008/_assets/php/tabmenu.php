@@ -44,13 +44,13 @@
 
     print "<ul id=\"tabmenu\">";
     print "<li><a $homeTB href=\"http://www2008.taicpart.org\">Welcome</a></li>";
-	print "<li><a $cfpTB href=\"http://www2008.taicpart.org/callforpapers/\">Call for Papers</a></li>";
-	print "<li><a $pcTB href=\"http://www2008.taicpart.org/programcommittee/\">Program Committee</a></li>";
-	print "<li><a $keyTB href=\"http://www2008.taicpart.org/keynotes/\">Keynote Speakers</a></li>";
-	print "<li><a $attTB href=\"http://www2008.taicpart.org/attendees/\">Attendees</a></li>";
-	print "<li><a $presTB href=\"http://www2008.taicpart.org/presentations/\">Presentations & Posters</a></li>";
-    print "<li><a $sdTB href=\"http://www2008.taicpart.org/speeddating/\">Speed Dating</a></li>";
-	print "<li><a $phTB href=\"http://www2008.taicpart.org/photos/\">Photos</a></li>";
+	print "<li><a $cfpTB href=\"2008/callforpapers/\">Call for Papers</a></li>";
+	print "<li><a $pcTB href=\"2008/programcommittee/\">Program Committee</a></li>";
+	print "<li><a $keyTB href=\"2008/keynotes/\">Keynote Speakers</a></li>";
+	print "<li><a $attTB href=\"2008/attendees/\">Attendees</a></li>";
+	print "<li><a $presTB href=\"2008/presentations/\">Presentations & Posters</a></li>";
+    print "<li><a $sdTB href=\"2008/speeddating/\">Speed Dating</a></li>";
+	print "<li><a $phTB href=\"2008/photos/\">Photos</a></li>";
     print "</ul>";
     print "<br><br>";
     

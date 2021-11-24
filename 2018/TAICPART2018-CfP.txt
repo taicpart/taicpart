@@ -2,7 +2,7 @@ Call for Papers TAIC PART 2018
  
 TAIC PART 2018 – 13th Workshop on Testing: Academia-Industry Collaboration,
 Practice and Research Techniques
-http://www2018.taicpart.org/
+2018/
  
 April, 2018, Västerås, Sweden
 Co-located with IEEE International Conference on Software Testing, Verification
@@ -65,7 +65,7 @@ in the IEEE Digital Library.
 + Guowei Yang, Texas State University, USA (Program Co-Chair)
 
 If you have any questions or require more information on TAIC PART 2018, please
-visit http://www2017.taicpart.org/ or write to Emil.Alegroth@Bth.se.
+visit 2017/ or write to Emil.Alegroth@Bth.se.
 
  
 +++ Program Committee (to be extended) +++
